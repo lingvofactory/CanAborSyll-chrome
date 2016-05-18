@@ -1,0 +1,14 @@
+{
+  "name": "Canadian Aboriginal Syllabic Transliterator",
+  "version": "1.0",
+  "description": "Transliterate Canadian aboriginal syllabic to Latin",
+  "homepage_url": "https://github.com/lingvofactory",
+  "permissions": [
+    "tabs", "http://*/*", "https://*/*"
+  ],
+  "browser_action": {
+      "default_icon": "icon.png",
+      "default_popup": "popup.html"
+  },
+  "manifest_version": 2
+} 
